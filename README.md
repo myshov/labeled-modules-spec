@@ -5,4 +5,4 @@ This is the home of the Labeled Modules specification. It's derived from the [Co
 
 This repository contains unit tests for Labeled Modules.
 
-[See the Wiki for the Specification](http://github.com/labeledmodules/labeled-modules-spec/wiki)
+[See the Wiki for the Specification](https://github.com/sebmarkbage/labeled-modules-spec/wiki)
